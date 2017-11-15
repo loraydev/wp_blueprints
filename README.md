@@ -6,7 +6,7 @@ that can be easily chosen, improved, and switched.
 
 ## Build your own base
 
-It is just a start though, but I want this theme to allow developpers to build their own WordPress Theme Base and reuse it through
+It is just a start though, but I want this theme to allow developers to build their own WordPress Theme Base and reuse it through
 multiple and different projects. Let's give this project a try !
 
 ## What do I need before starting ?
@@ -28,3 +28,4 @@ When the master branch will be up (I might be currently working on the develop o
 4. Type `npm i` and press enter 
 5. If you want to do some postCSS or some JS open another terminal, `cd` to your project and just run `gulp` (it has been set to *watch* by default)
 6. You are good to go :p
+
